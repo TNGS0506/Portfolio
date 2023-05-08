@@ -4,7 +4,9 @@ Download The Zip File
 
 enter the file directory
 
-run: npm i
+run: 
+
+     npm i
 
      npm run dev
      
