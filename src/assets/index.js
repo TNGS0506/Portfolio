@@ -35,7 +35,7 @@ import dotnet from './tech/.net.png';
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import mylogo from "../../../Logo/svg1/mylogo.svg";
+import mylogo from "./mylogo.svg";
 import portfolio from './portfolio.png';
 import api from './api.png';
 import game from'./Game.png';
